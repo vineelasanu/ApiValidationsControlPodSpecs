@@ -1,0 +1,2 @@
+# ApiValidationsControlPodSpecs
+Pod Specs
